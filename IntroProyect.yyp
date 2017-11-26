@@ -127,14 +127,6 @@
             }
         },
         {
-            "Key": "2967a610-c484-4ce5-a5c5-277a786cbef9",
-            "Value": {
-                "id": "401ed682-1e51-4900-8c02-09a11d9850dd",
-                "resourcePath": "objects\\oInstructions\\oInstructions.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
             "Key": "2eea18c6-4558-4d70-8c75-a42c6cb39e85",
             "Value": {
                 "id": "05843bc1-5237-42fb-9d89-59c56ae81c69",
@@ -143,18 +135,10 @@
             }
         },
         {
-            "Key": "32364a31-959a-4e67-99c7-14451208f15e",
+            "Key": "31e35341-e944-44db-9998-35053ecc091e",
             "Value": {
-                "id": "84dc3fb4-4944-4664-bbb3-00c9fa8a4ce9",
-                "resourcePath": "sprites\\sCatrinaShield\\sCatrinaShield.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "3477d40e-5b1a-44d3-8a51-0ab5436c3470",
-            "Value": {
-                "id": "4f77d01a-3676-44ae-af83-8ffe25989b7b",
-                "resourcePath": "sprites\\sMariachiStandLeft\\sMariachiStandLeft.yy",
+                "id": "47426484-1972-4b7c-b06a-45d93c97c5c1",
+                "resourcePath": "sprites\\sMariachiWalking\\sMariachiWalking.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -175,19 +159,19 @@
             }
         },
         {
+            "Key": "3e17f73c-5438-4da1-b145-691d05118722",
+            "Value": {
+                "id": "a2ddf497-b595-445e-aea6-25779639d986",
+                "resourcePath": "sprites\\sInstructions1\\sInstructions1.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "3fecade0-5804-4149-b6a0-8959608b2f37",
             "Value": {
                 "id": "7e0af3c5-e08f-4c54-bb78-14bd1631b6b9",
                 "resourcePath": "rooms\\Round3\\Round3.yy",
                 "resourceType": "GMRoom"
-            }
-        },
-        {
-            "Key": "4174a272-6cce-470d-8397-8ee8daf675b8",
-            "Value": {
-                "id": "21b78e47-9c32-4650-9405-2ae3442dc112",
-                "resourcePath": "sprites\\Logo\\Logo.yy",
-                "resourceType": "GMSprite"
             }
         },
         {
@@ -199,18 +183,18 @@
             }
         },
         {
-            "Key": "43f66fc3-1fd9-46b0-9ac5-82db3668e498",
-            "Value": {
-                "id": "8b297024-69b2-434f-a28c-7ea8ad4d44d4",
-                "resourcePath": "objects\/obj_topwalls\/obj_topwalls.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
             "Key": "46aee1a7-5419-4d85-9c52-f476de2537d9",
             "Value": {
                 "id": "c3b2dc91-0ccd-49a4-a5bb-cba820e053ee",
                 "resourcePath": "objects\\MariachiShield\\MariachiShield.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "4adb2f71-5f19-4492-891c-e849bcc3ad8b",
+            "Value": {
+                "id": "5844f0b0-bfbf-49bc-bd78-368000e1ad85",
+                "resourcePath": "objects\\FinalControler\\FinalControler.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -220,6 +204,30 @@
                 "id": "cbf24b79-7638-459a-9d02-ce9414422137",
                 "resourcePath": "views\/4b2fb6ff-11ad-42b8-8a2b-ee34490d1e69.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "4baf54e6-7065-4737-8e3b-272f4431d4cc",
+            "Value": {
+                "id": "f18a1e53-3315-4568-bf20-3ff149625da9",
+                "resourcePath": "sprites\\sFireball\\sFireball.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "590beaa9-d195-4870-977b-957604cd18f5",
+            "Value": {
+                "id": "bb1972f9-0c2e-437d-8b76-ca52165ba99e",
+                "resourcePath": "sprites\\sCatrinaWalking\\sCatrinaWalking.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "5e79a0d4-4177-4f4c-a1e3-e0a21968a46d",
+            "Value": {
+                "id": "51f86eb9-3146-41bb-92e0-44f933403184",
+                "resourcePath": "objects\\Controler\\Controler.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -239,10 +247,18 @@
             }
         },
         {
+            "Key": "688454cc-0193-4e27-a3b4-06a16e591dcc",
+            "Value": {
+                "id": "028cebea-8be1-45ab-a42b-ebb8ef12d7a9",
+                "resourcePath": "sprites\\Desert\\Desert.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "6d2139b4-6653-4789-9c32-80c538b5a233",
             "Value": {
                 "id": "e17e5422-3e4d-453a-8224-403302a9bf44",
-                "resourcePath": "objects\\oMenu\\oMenu.yy",
+                "resourcePath": "objects\\oMiddleWall\\oMiddleWall.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -327,14 +343,6 @@
             }
         },
         {
-            "Key": "80cdc03f-a0d5-4edb-82ae-b279cb508fd8",
-            "Value": {
-                "id": "1286b163-1db5-4ba4-aefe-ccae29a5dfc1",
-                "resourcePath": "sprites\\sCatrina\\sCatrina.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "8162b749-03f2-427e-84a7-1ebfb833dff3",
             "Value": {
                 "id": "a273277b-ebd5-468c-87d4-27eee0287739",
@@ -343,11 +351,35 @@
             }
         },
         {
+            "Key": "84199e38-d02c-41a5-9d78-9bd7e1359b58",
+            "Value": {
+                "id": "79361783-7b90-4842-9f8d-48f38d9907fe",
+                "resourcePath": "objects\\oFireball\\oFireball.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "8446fafb-2b15-4f90-8a88-84594b4c1e39",
             "Value": {
                 "id": "f68c0cc7-8d73-4ef2-a554-1d2442212d0a",
                 "resourcePath": "views\/8446fafb-2b15-4f90-8a88-84594b4c1e39.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "85d80932-3f34-404c-86b6-9ed8a39f7689",
+            "Value": {
+                "id": "a6a6ee6b-782e-4508-a9ed-150d91626e5d",
+                "resourcePath": "views\\85d80932-3f34-404c-86b6-9ed8a39f7689.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "97d977ee-e49e-4933-a0fa-b08c0d08ca32",
+            "Value": {
+                "id": "a6894bd2-270f-49fe-9ce7-cb28200ea61f",
+                "resourcePath": "objects\\Logo\\Logo.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -364,14 +396,6 @@
                 "id": "12ac5099-7c2d-45b4-b775-a9eb77776ce9",
                 "resourcePath": "views\\9b5d2fd5-33d3-430d-a203-9a93aa5c3d06.yy",
                 "resourceType": "GMFolder"
-            }
-        },
-        {
-            "Key": "a5a1ead9-9233-498e-8593-030e6ae2eea9",
-            "Value": {
-                "id": "90960668-1d31-4587-acf3-c55a1e3c02e8",
-                "resourcePath": "sprites\\sMariachiLeft\\sMariachiLeft.yy",
-                "resourceType": "GMSprite"
             }
         },
         {
@@ -399,26 +423,10 @@
             }
         },
         {
-            "Key": "b312b951-a114-44d0-a979-02ace30d1c7b",
-            "Value": {
-                "id": "a46cd8d5-7077-4e30-8b49-0b269159d63c",
-                "resourcePath": "objects\\ButtonRound1\\ButtonRound1.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
             "Key": "b65d3b4c-22f8-44fe-a98b-93704634564f",
             "Value": {
                 "id": "714f8ef6-7c3d-4383-9eb7-d0635e64bf9f",
                 "resourcePath": "objects\\CatrinaShield\\CatrinaShield.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
-            "Key": "b8267989-34ad-460a-9e90-b6ba4cc1a013",
-            "Value": {
-                "id": "7956cd73-5988-4441-8714-facb2c13a742",
-                "resourcePath": "objects\\FinalControler\\FinalControler.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -487,22 +495,6 @@
             }
         },
         {
-            "Key": "de3fa851-684c-4908-8267-bad683fdeae2",
-            "Value": {
-                "id": "4ca501dd-90c5-4074-b1cc-dfb50414c935",
-                "resourcePath": "objects\\Controlador\\Controlador.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
-            "Key": "e1417e8d-5892-4146-aaf3-6364b1c2606c",
-            "Value": {
-                "id": "68effce5-f5d2-459b-900f-1b3138fadfa0",
-                "resourcePath": "views\\e1417e8d-5892-4146-aaf3-6364b1c2606c.yy",
-                "resourceType": "GMFolder"
-            }
-        },
-        {
             "Key": "e2c3847a-5509-40e0-ae66-e3049fc34b12",
             "Value": {
                 "id": "b90cc635-3b6d-43a3-8363-96ff4a9155e3",
@@ -547,6 +539,14 @@
             "Value": {
                 "id": "1b46cfa1-725f-4821-ae9a-775141254f76",
                 "resourcePath": "sprites\\sInstructions\\sInstructions.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "ffded861-b6a7-4fef-91d7-afd5fd8855e7",
+            "Value": {
+                "id": "47dc956a-094f-4de5-8ce5-eab0fb66f26c",
+                "resourcePath": "sprites\\sLogo\\sLogo.yy",
                 "resourceType": "GMSprite"
             }
         }
